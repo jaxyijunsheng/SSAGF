@@ -1,5 +1,5 @@
 # SSAGF
-The official TensorFlow implementation of our paper A Structurally Sensitive Adaptive Graph Filter forRecommendations.
+The official TensorFlow implementation of our paper Local Structure-Adaptive Graph Filtering for Collaborative Filtering.
 
 Datasets:
 
