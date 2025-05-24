@@ -3,13 +3,13 @@ The official TensorFlow implementation of our paper Local Structure-Adaptive Gra
 
 Datasets:
 
-ML-1M: https://drive.google.com/file/d/1zCC6GKqf9HPjp0K5TmbUMmCbC_DAu8Y-/view?usp=drive_link
+ML-1M: https://drive.google.com/file/d/xxx
 
-ML-100K: https://drive.google.com/file/d/1UQV94EqQHKkPTSZkgwflDY6HxijHLRjC/view?usp=drive_link
+ML-100K: https://drive.google.com/file/d/xxx
 
-Yelp2018： https://drive.google.com/file/d/1RGMTFQQ7lHSlHH3yzMXbvmtwSa30sJ3F/view?usp=drive_link
+Yelp2018： https://drive.google.com/file/d/xxx
 
-CiteULike： https://drive.google.com/file/d/1xV4HmYWIJAEB9rJZwF00v4sE5GzfaRPI/view?usp=drive_link
+CiteULike： https://drive.google.com/file/d/xxx
 
 How to use?
 
